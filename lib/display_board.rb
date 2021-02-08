@@ -7,3 +7,8 @@ def display_board
   puts "   |   |   "
 
  end
+
+irb
+def greeting
+  puts "Hi, Ruby programmer!"
+end
